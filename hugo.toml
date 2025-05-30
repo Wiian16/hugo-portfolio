@@ -6,6 +6,9 @@ theme = "gokarna"
 [params]
     avatarURL = "/images/avatar.webp"
     description = "An aspiring software developer"
+    customHeadHTML = '''
+        <link rel="stylesheet" href="/css/style.css">
+    '''
 
 [menu]
     [[menu.main]]
