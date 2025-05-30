@@ -48,6 +48,9 @@ Learned cybersecurity from industry professionals and collaborated with local te
 
 **Languages:** Java, C, Python, JavaScript, TypeScript
 
+{{< skillbox icon="/images/java.png" alt="Java" name="Java" >}}
+{{< skillbox icon="/images/C_Programming_Language.svg" alt="C Programming Language" name="C (Language)" >}}
+
 **Platforms & Tech:** Linux/Unix, Windows, Raspberry Pi, Arduino
 
 **Tools:** Git, Vim, Adobe Suite, Microsoft Office, Davinci Resolve

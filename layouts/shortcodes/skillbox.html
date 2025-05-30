@@ -1,0 +1,6 @@
+<span class="skill-box">
+  {{ with .Get "icon" }}
+    <img src="{{ . }}" alt="{{ $.Get "alt" | default ($.Get "name") }}" class="skill-icon">
+  {{ end }}
+  <span>{{ .Get "name" }}</span>
+</span>

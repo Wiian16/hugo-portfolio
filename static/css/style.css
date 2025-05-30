@@ -1,3 +1,24 @@
 .home-content {
     /* text-align: center; */
 }
+
+.skill-box {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background-color: #2e2e3a;
+  padding: 0.4rem 0.8rem;
+  border-radius: 0.4rem;
+  color: #ccc;
+  font-family: monospace;
+  margin: 0.25rem;
+  font-size: 0.95rem;
+}
+
+.skill-icon {
+  width: 30px;
+  height: 30px;
+  object-fit: contain;
+  filter: drop-shadow(0 0 1px rgba(0, 0, 0, 0.5));
+}
+
