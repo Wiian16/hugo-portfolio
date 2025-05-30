@@ -1,7 +1,14 @@
 baseURL = 'https://dev.ianmcg.dev/'
 languageCode = 'en-us'
-title = 'Ian McGillivary Portfolio'
+title = 'Ian McGillivary'
 theme = "gokarna"
 
 [params]
     avatarURL = "/images/avatar.webp"
+    description = "An aspiring software developer"
+
+[menu]
+    [[menu.main]]
+        name ="About Me"
+        url = "/about-me"
+        weight = 1
