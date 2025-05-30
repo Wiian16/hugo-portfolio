@@ -1,4 +1,7 @@
 baseURL = 'https://dev.ianmcg.dev/'
 languageCode = 'en-us'
 title = 'Ian McGillivary Portfolio'
-theme = 'ananke'
+theme = "gokarna"
+
+[params]
+    avatarURL = "/images/avatar.webp"
