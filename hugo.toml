@@ -6,6 +6,12 @@ theme = "gokarna"
 [params]
     avatarURL = "/images/avatar.webp"
     description = "An aspiring software developer"
+    socialIcons = [
+        {name = "linkedin", url = "https://www.linkedin.com/in/ian-mcgillivary/"},
+        {name = "github", url = "https://github.com/Wiian16"},
+        {name = "email", url = "mailto:ianmcgil@iu.edu"},
+        {name = "resume", url="https://assets.ianmcg.dev/public/IanMcGillivaryResume.pdf"}
+    ]
     customHeadHTML = '''
         <link rel="stylesheet" href="/css/style.css">
     '''
