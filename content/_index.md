@@ -10,8 +10,8 @@ I’m a Computer Science student at Indiana University specializing in Software 
 Environmental Science. I’m passionate about building practical, efficient software and solving real-world 
 problems—whether that’s through teaching, collaborating at hackathons, or exploring new technologies on my own time.
 
-You can find my work online under the handle **Wiian16**, including on GitHub, where I share projects and experiments as I
-continue growing as a developer. I’m currently looking for internship opportunities where I can contribute to
+You can find my work online under the handle **Wiian16**, including on GitHub, where I share projects and experiments
+as I continue growing as a developer. I’m currently looking for internship opportunities where I can contribute to
 meaningful projects and develop my skills in a collaborative environment.
 
 # What I've Been Up To
@@ -68,7 +68,7 @@ Learned cybersecurity from industry professionals and collaborated with local te
 {{< skillbox icon="/images/Icon-Vim.svg" alt="Vim" name="Vim" >}}
 {{< skillbox icon="/images/sql-icon.svg" alt="SQL" name="SQL" >}}
 {{< skillbox icon="/images/adobe-icon.png" alt="Adobe" name="Adobe Suite" >}}
-{{< skillbox icon="/images/microsoft-office-icon.webp" alt="Microsoft Office" name="Microsot Office" >}}
+{{< skillbox icon="/images/microsoft-office-icon.webp" alt="Microsoft Office" name="Microsoft Office" >}}
 {{< skillbox icon="/images/davinci-resolve-icon.svg" alt="Davinci Resolve" name="Davinci Resolve" >}}
 
 <!-- # Recent Projects -->
