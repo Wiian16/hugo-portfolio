@@ -48,26 +48,26 @@ Learned cybersecurity from industry professionals and collaborated with local te
 
 **Languages:** Java, C, Python, JavaScript, TypeScript
 
-{{< skillbox icon="/images/java.png" alt="Java" name="Java" >}}
+{{< skillbox icon="/images/java-icon.webp" alt="Java" name="Java" >}}
 {{< skillbox icon="/images/C_Programming_Language.svg" alt="C Programming Language" name="C (Language)" >}}
-{{< skillbox icon="/images/python-logo.png" alt="Python" name="Python" >}}
-{{< skillbox icon="/images/javascript-icon.png" alt="JavaScript" name="JavaScript" >}}
-{{< skillbox icon="/images/Typescript_logo.png" alt="TypeScript" name="TypeScript" >}}
+{{< skillbox icon="/images/python-logo.webp" alt="Python" name="Python" >}}
+{{< skillbox icon="/images/javascript-icon.webp" alt="JavaScript" name="JavaScript" >}}
+{{< skillbox icon="/images/typescript-logo.svg" alt="TypeScript" name="TypeScript" >}}
 
 
 **Platforms & Tech:** Linux/Unix, Windows, Raspberry Pi, Arduino
 
 {{< skillbox icon="/images/linux_icon.svg" alt="Linux" name="Linux/Unix" >}}
-{{< skillbox icon="/images/windows-icon.png" alt="Windows" name="Windows" >}}
-{{< skillbox icon="/images/raspberry-pi-icon.png" alt="Raspberry Pi" name="Raspberry Pi" >}}
-{{< skillbox icon="/images/arduino-icon.png" alt="arduino" name="Arduino" >}}
+{{< skillbox icon="/images/windows-icon.webp" alt="Windows" name="Windows" >}}
+{{< skillbox icon="/images/raspberry-pi-icon.webp" alt="Raspberry Pi" name="Raspberry Pi" >}}
+{{< skillbox icon="/images/arduino-icon.svg" alt="arduino" name="Arduino" >}}
 
 **Tools:** Git, Vim, SQL, Adobe Suite, Microsoft Office, Davinci Resolve
 
 {{< skillbox icon="/images/Git_icon.svg" alt="Git" name="Git" >}}
 {{< skillbox icon="/images/Icon-Vim.svg" alt="Vim" name="Vim" >}}
 {{< skillbox icon="/images/sql-icon.svg" alt="SQL" name="SQL" >}}
-{{< skillbox icon="/images/adobe-icon.png" alt="Adobe" name="Adobe Suite" >}}
+{{< skillbox icon="/images/adobe-icon.webp" alt="Adobe" name="Adobe Suite" >}}
 {{< skillbox icon="/images/microsoft-office-icon.webp" alt="Microsoft Office" name="Microsoft Office" >}}
 {{< skillbox icon="/images/davinci-resolve-icon.svg" alt="Davinci Resolve" name="Davinci Resolve" >}}
 
