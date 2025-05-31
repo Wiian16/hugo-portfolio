@@ -5,6 +5,7 @@
 .skill-box {
   display: inline-flex;
   align-items: center;
+  justify-content: center;
   gap: 0.5rem;
   background-color: #2e2e3a;
   padding: 0.4rem 0.8rem;
@@ -13,12 +14,15 @@
   font-family: monospace;
   margin: 0.25rem;
   font-size: 0.95rem;
+  min-height: 30px; /* Force consistent height */
+  line-height: 30px; /* Align text vertically with image height */
+  vertical-align: middle; /* Align inline blocks */
 }
 
 .skill-icon {
   width: 30px;
   height: 30px;
   object-fit: contain;
-  filter: drop-shadow(0 0 1px rgba(0, 0, 0, 0.5));
+  flex-shrink: 0;
 }
 
