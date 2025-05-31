@@ -62,7 +62,14 @@ Learned cybersecurity from industry professionals and collaborated with local te
 {{< skillbox icon="/images/raspberry-pi-icon.png" alt="Raspberry Pi" name="Raspberry Pi" >}}
 {{< skillbox icon="/images/arduino-icon.png" alt="arduino" name="Arduino" >}}
 
-**Tools:** Git, Vim, Adobe Suite, Microsoft Office, Davinci Resolve
+**Tools:** Git, Vim, SQL, Adobe Suite, Microsoft Office, Davinci Resolve
+
+{{< skillbox icon="/images/Git_icon.svg" alt="Git" name="Git" >}}
+{{< skillbox icon="/images/Icon-Vim.svg" alt="Vim" name="Vim" >}}
+{{< skillbox icon="/images/sql-icon.svg" alt="SQL" name="SQL" >}}
+{{< skillbox icon="/images/adobe-icon.png" alt="Adobe" name="Adobe Suite" >}}
+{{< skillbox icon="/images/microsoft-office-icon.webp" alt="Microsoft Office" name="Microsot Office" >}}
+{{< skillbox icon="/images/davinci-resolve-icon.svg" alt="Davinci Resolve" name="Davinci Resolve" >}}
 
 <!-- # Recent Projects -->
 <!---->
