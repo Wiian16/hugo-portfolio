@@ -44,25 +44,16 @@ Learned cybersecurity from industry professionals and collaborated with local te
 
 # Skills and Tools
 
-<!-- TODO: Make these prettier, flex box w/ shortcode? -->
-
-**Languages:** Java, C, Python, JavaScript, TypeScript
-
 {{< skillbox icon="/images/java-icon.webp" alt="Java" name="Java" >}}
 {{< skillbox icon="/images/C_Programming_Language.svg" alt="C Programming Language" name="C (Language)" >}}
 {{< skillbox icon="/images/python-logo.webp" alt="Python" name="Python" >}}
 {{< skillbox icon="/images/javascript-icon.webp" alt="JavaScript" name="JavaScript" >}}
 {{< skillbox icon="/images/typescript-logo.svg" alt="TypeScript" name="TypeScript" >}}
 
-
-**Platforms & Tech:** Linux/Unix, Windows, Raspberry Pi, Arduino
-
 {{< skillbox icon="/images/linux_icon.svg" alt="Linux" name="Linux/Unix" >}}
 {{< skillbox icon="/images/windows-icon.webp" alt="Windows" name="Windows" >}}
 {{< skillbox icon="/images/raspberry-pi-icon.webp" alt="Raspberry Pi" name="Raspberry Pi" >}}
 {{< skillbox icon="/images/arduino-icon.svg" alt="arduino" name="Arduino" >}}
-
-**Tools:** Git, Vim, SQL, Adobe Suite, Microsoft Office, Davinci Resolve
 
 {{< skillbox icon="/images/Git_icon.svg" alt="Git" name="Git" >}}
 {{< skillbox icon="/images/Icon-Vim.svg" alt="Vim" name="Vim" >}}
