@@ -62,9 +62,9 @@ Learned cybersecurity from industry professionals and collaborated with local te
 {{< skillbox icon="/images/microsoft-office-icon.webp" alt="Microsoft Office" name="Microsoft Office" >}}
 {{< skillbox icon="/images/davinci-resolve-icon.svg" alt="Davinci Resolve" name="Davinci Resolve" >}}
 
-<!-- # Recent Projects -->
-<!---->
-<!-- ## TODO -->
+# Recent Projects
+
+{{< listposts section="projects" >}}
 
 # Resume and Contact
 

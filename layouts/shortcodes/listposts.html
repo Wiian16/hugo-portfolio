@@ -1,0 +1,20 @@
+{{/* Shortcode: listposts.html */}}
+
+<ul class="custom-post-list">
+  {{ $pages := .Site.RegularPages }}
+  {{ if .IsNamedParams }}
+    {{ with .Get "section" }}
+      {{ $pages = where $.Site.RegularPages "Section" . }}
+    {{ end }}
+    {{ with .Get "type" }}
+      {{ $pages = where $pages "Type" . }}
+    {{ end }}
+  {{ end }}
+
+  {{ range $pages }}
+    <li>
+      {{ partial "list-posts.html" . }}
+    </li>
+  {{ end }}
+</ul>
+

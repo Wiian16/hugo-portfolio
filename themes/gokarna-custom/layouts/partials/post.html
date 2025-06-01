@@ -19,6 +19,12 @@
 	  {{ $displayDescription = false }}
 	{{ end }}
 
+    {{ with .Params.image }}
+        <div class="post-image">
+            <img src="{{ . }}" alt="{{ $.Params.imageAlt | default "Featured Image" }}">
+        </div>
+    {{ end }}
+
 	{{ if $displayDescription }}
           <small role="doc-subtitle">{{ .Description }}</small>
 	{{ end }}
