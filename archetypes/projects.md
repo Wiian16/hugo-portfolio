@@ -3,7 +3,7 @@ date: {{ .Date }}
 # description: ""
 # image: "" 
 # imageAlt: ""
-# tags; ["",]
+# tags: ["",]
 title: "{{ replace .File.ContentBaseName `-` ` ` | title}}"
 type: "post"
 ---
