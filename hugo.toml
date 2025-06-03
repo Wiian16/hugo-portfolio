@@ -7,10 +7,10 @@ theme = "gokarna-custom"
     avatarURL = "/images/avatar.webp"
     description = "An aspiring software developer"
     socialIcons = [
-        {name = "linkedin-feather", url = "https://www.linkedin.com/in/ian-mcgillivary/"},
-        {name = "github-feather", url = "https://github.com/Wiian16"},
+        {name = "linkedin-feather", url = "/redirects/linkedin/"},
+        {name = "github-feather", url = "/redirects/github/"},
         {name = "mail", url = "mailto:ianmcgil@iu.edu"},
-        {name = "file-text", url="https://assets.ianmcg.dev/public/IanMcGillivaryResume.pdf"}
+        {name = "file-text", url="/redirects/resume/"}
     ]
     customHeadHTML = '''
         <link rel="stylesheet" href="/css/style.css">
@@ -38,11 +38,11 @@ theme = "gokarna-custom"
     [[menu.main]]
         name = "Github"
         pre = "<span data-feather='github'></span>"
-        url = "https://github.com/Wiian16"
+        pageRef = "/redirects/github/"
         weight = 4
     
     [[menu.main]]
         name = "Resume"
         pre = "<span data-feather='file-text'></span>"
-        url = "https://assets.ianmcg.dev/public/IanMcGillivaryResume.pdf"
+        url = "/redirects/resume/"
         weight = 4

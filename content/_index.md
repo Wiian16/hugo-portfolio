@@ -68,8 +68,8 @@ Learned cybersecurity from industry professionals and collaborated with local te
 
 # Resume and Contact
 
-- [Download my resume](https://assets.ianmcg.dev/public/IanMcGillivaryResume.pdf)
+- [Download my resume](/redirects/resume/)
 
 - [ianmcgil@iu.edu](mailto:ianmgil@iu.edu)
 
-- [Github](https://github.com/Wiian16)
+- [Github](/redirects/github/)
