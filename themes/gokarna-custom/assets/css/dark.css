@@ -103,3 +103,11 @@ video {
 .skill-box {
     background-color: var(--dark-secondary-color);
 }
+
+.post-card {
+    background: var(--dark-secondary-color);
+}
+
+.post-image-wrapper {
+    background: var(--dark-secondary-color);
+}
