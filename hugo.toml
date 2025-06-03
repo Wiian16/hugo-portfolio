@@ -9,8 +9,8 @@ theme = "gokarna-custom"
     socialIcons = [
         {name = "linkedin", url = "https://www.linkedin.com/in/ian-mcgillivary/"},
         {name = "github", url = "https://github.com/Wiian16"},
-        {name = "email", url = "mailto:ianmcgil@iu.edu"},
-        {name = "resume", url="https://assets.ianmcg.dev/public/IanMcGillivaryResume.pdf"}
+        {name = "mail", url = "mailto:ianmcgil@iu.edu"},
+        {name = "file-text", url="https://assets.ianmcg.dev/public/IanMcGillivaryResume.pdf"}
     ]
     customHeadHTML = '''
         <link rel="stylesheet" href="/css/style.css">
