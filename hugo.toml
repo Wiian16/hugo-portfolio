@@ -7,8 +7,8 @@ theme = "gokarna-custom"
     avatarURL = "/images/avatar.webp"
     description = "An aspiring software developer"
     socialIcons = [
-        {name = "linkedin", url = "https://www.linkedin.com/in/ian-mcgillivary/"},
-        {name = "github", url = "https://github.com/Wiian16"},
+        {name = "linkedin-feather", url = "https://www.linkedin.com/in/ian-mcgillivary/"},
+        {name = "github-feather", url = "https://github.com/Wiian16"},
         {name = "mail", url = "mailto:ianmcgil@iu.edu"},
         {name = "file-text", url="https://assets.ianmcg.dev/public/IanMcGillivaryResume.pdf"}
     ]
@@ -17,3 +17,27 @@ theme = "gokarna-custom"
     '''
 
 [menu]
+    [[menu.main]]
+        name = "Home"
+        pre = "<span data-feather='home'></span>"
+        url = "/"
+        weight = 1
+
+    [[menu.main]]
+        name = "Projects"
+        pre = "<span data-feather='code'></span>"
+        url = "/projects/"
+        weight = 2
+
+    [[menu.main]]
+        name = "Tags"
+        pre = "<span data-feather='tag'></span>"
+        url = "/tags/"
+        weight = 3
+
+    [[menu.main]]
+        name = "Github"
+        pre = "<span data-feather='tag'></span>"
+        url = "/tags/"
+        weight = 3
+    
