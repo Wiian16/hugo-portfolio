@@ -61,6 +61,7 @@ Learned cybersecurity from industry professionals and collaborated with local te
 {{< skillbox icon="/images/adobe-icon.webp" alt="Adobe" name="Adobe Suite" >}}
 {{< skillbox icon="/images/microsoft-office-icon.webp" alt="Microsoft Office" name="Microsoft Office" >}}
 {{< skillbox icon="/images/davinci-resolve-icon.svg" alt="Davinci Resolve" name="Davinci Resolve" >}}
+{{< skillbox icon="/images/typst-logo.webp" alt="Typst" name="Typst" >}}
 
 # Recent Projects
 
