@@ -20,24 +20,29 @@ theme = "gokarna-custom"
     [[menu.main]]
         name = "Home"
         pre = "<span data-feather='home'></span>"
-        url = "/"
+        pageRef = "/"
         weight = 1
 
     [[menu.main]]
         name = "Projects"
         pre = "<span data-feather='code'></span>"
-        url = "/projects/"
+        pageRef = "/projects/"
         weight = 2
 
     [[menu.main]]
         name = "Tags"
         pre = "<span data-feather='tag'></span>"
-        url = "/tags/"
+        pageRef = "/tags/"
         weight = 3
 
     [[menu.main]]
         name = "Github"
-        pre = "<span data-feather='tag'></span>"
-        url = "/tags/"
-        weight = 3
+        pre = "<span data-feather='github'></span>"
+        url = "https://github.com/Wiian16"
+        weight = 4
     
+    [[menu.main]]
+        name = "Resume"
+        pre = "<span data-feather='file-text'></span>"
+        url = "https://assets.ianmcg.dev/public/IanMcGillivaryResume.pdf"
+        weight = 4
