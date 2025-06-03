@@ -2,7 +2,11 @@
 
 <html>
     <head>
+        {{ if .Params.redirect_url }}
         <meta http-equiv="refresh" content="0; url={{ .Params.redirect_url }}">
+        {{ else }}
+        <meta http-equiv="refresh" content="0; url=/">
+        {{ end }}
     </head>
     <body></body>
 </html>
