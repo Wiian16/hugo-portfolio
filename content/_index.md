@@ -16,31 +16,35 @@ meaningful projects and develop my skills in a collaborative environment.
 
 # What I've Been Up To
 
-<!-- TODO: Work on blurbs for each experience -->
-
 ## Teaching Assistant, Indiana University
 
 *January 2025 - Present*
 
-Helping students grasp core Java concepts through labs and office hours.
+- Lead in-person labs for students learning Java and hold in-person office hours to assist students
+- Grade homework assignments and exams
 
 ## Makerspace Technician, Luddy Makerspaces
 
 *August 2024 - Present*
 
-Teaching students to build, solder, and create with 3D printers, CAD, and laser cutters.
+- Teach students to use fabrication tools such as 3D printers, soldering irons, and CAD software
+- Operate machinery such as laser cutters
 
 ## Litigation Technology Associate, Graville Law
 
 *May 2023 - Present*
 
-Developed internal tools and provided IT support for a high-stakes legal team.
+- Developed an app for relabeling and numbering digital documents
+- Provided IT support for phones, servers, and digital document systems
+- Created audio, visual, and document exhibits for trial
 
 ## Associate, Spark! Technology Solutions
 
 *August 2022 - May 2023*
 
-Learned cybersecurity from industry professionals and collaborated with local tech firms using Agile workflows.
+- Worked alongside Netskope security experts to learn cybersecurity tools
+- Met and worked with technology firms in St. Louis, Missouri to experience the workplace
+- Learned and gained experience using the Agile workflow
 
 # Skills and Tools
 
@@ -64,6 +68,8 @@ Learned cybersecurity from industry professionals and collaborated with local te
 {{< skillbox icon="/images/typst-logo.webp" alt="Typst" name="Typst" >}}
 
 # Recent Projects
+
+Coming soon, stay tuned!
 
 {{< listposts section="projects" >}}
 
