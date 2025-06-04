@@ -1,0 +1,28 @@
+.home-content {
+    /* text-align: center; */
+}
+
+.skill-box {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  /* background-color: #2e2e3a; */
+  padding: 0.4rem 0.8rem;
+  border-radius: 0.4rem;
+  color: var(--text-color);
+  font-family: monospace;
+  margin: 0.25rem;
+  font-size: 0.95rem;
+  min-height: 30px; /* Force consistent height */
+  line-height: 30px; /* Align text vertically with image height */
+  vertical-align: middle; /* Align inline blocks */
+}
+
+.skill-icon {
+  width: 30px;
+  height: 30px;
+  object-fit: contain;
+  flex-shrink: 0;
+}
+
