@@ -111,3 +111,7 @@ video {
 .post-image-wrapper {
     background: var(--dark-secondary-color);
 }
+
+.post-card-image-wrapper {
+    background: var(--dark-secondary-color)
+}
