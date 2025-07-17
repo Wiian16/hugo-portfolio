@@ -75,8 +75,8 @@ Coming soon, stay tuned!
 
 # Resume and Contact
 
-- [Download my resume](/redirects/resume/)
+- [Download my resume](/r/resume/)
 
 - [ianmcgil@iu.edu](mailto:ianmgil@iu.edu)
 
-- [Github](/redirects/github/)
+- [Github](/r/github/)
