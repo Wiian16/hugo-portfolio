@@ -1,8 +1,8 @@
 ---
-date: 2025-06-08T11:50:47-05:00
-# description: ""
+date: 2025-06-03T11:50:47-05:00
+description: "The hub for all of my recent projects, relevant experience, and ways to get in contact"
 image: "/images/projects/avatar-16x9.webp" 
-# imageAlt: ""
+imageAlt: "Wiian16's Avatar"
 tags: ["Hugo", "HTML", "CSS", "Cloudflare", "Homelab"]
 title: "Developer Portfolio Website"
 type: "post"

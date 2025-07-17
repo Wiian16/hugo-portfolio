@@ -1,10 +1,10 @@
 ---
-date: 2025-06-08T12:55:58-05:00
+date: 2024-04-14T12:55:58-05:00
 # description: ""
-# image: "" 
-# imageAlt: ""
+image: "/images/projects/luddy-hacks.webp" 
+imageAlt: "Luddy Hacks Logo"
 tags: ["Hackathon", "TypeScript", "JavaScript", "Electron"]
-title: "Luddy Hackathon Sp24"
+title: "Luddy Hackathon Spring 2024"
 type: "post"
 draft: true
 ---
