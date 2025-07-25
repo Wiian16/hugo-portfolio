@@ -6,7 +6,7 @@ imageAlt: "Luddy Hacks Logo"
 tags: ["Hackathon", "TypeScript", "JavaScript", "Electron", "Node.js", "OCR"]
 title: "Luddy Hackathon Spring 2024"
 type: "post"
-draft: true
+draft: false
 ---
 
 In April 2024, I competed in my first hackathon, [Luddy Hacks](https://luddy.indiana.edu/student-life/hackathon.html), 
