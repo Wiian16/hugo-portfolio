@@ -69,8 +69,6 @@ meaningful projects and develop my skills in a collaborative environment.
 
 # Recent Projects
 
-Coming soon, stay tuned!
-
 {{< listposts section="projects" >}}
 
 # Resume and Contact
