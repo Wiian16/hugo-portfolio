@@ -6,7 +6,7 @@ imageAlt: "Luddy Hacks Logo"
 tags: ["Hackathon", "TypeScript", "JavaScript", "PostgresQL", "Node.js", "Express.js", "OpenAPI"]
 title: "Luddy Hackathon Fall 2024"
 type: "post"
-draft: true
+draft: false
 ---
 
 In November of 2024, I competed in the second edition of the 
