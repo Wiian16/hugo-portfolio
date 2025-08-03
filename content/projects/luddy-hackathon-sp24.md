@@ -11,7 +11,7 @@ draft: false
 
 In April 2024, I competed in my first hackathon, [Luddy Hacks](https://luddy.indiana.edu/student-life/hackathon.html), 
 hosted at Indiana University's Luddy School of Informatics, Computing, and Engineering. This was also the first time
-working with my current team, and I'm proud to say we won our case!
+working with my current team of Lillie Donato, Sam Miller, and Matthew Widjaja, and I'm proud to say we won our case!
 
 Our project is a standalone tool that uses OCR to intelligently split large PDF documents based on keyword-based rules 
 provided via a config file. While the prompt only required a command-line utility, we went further and built a full UI
