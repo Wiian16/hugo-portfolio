@@ -20,8 +20,9 @@ meaningful projects and develop my skills in a collaborative environment.
 
 *January 2025 - Present*
 
+- Teaching assistant for CSCI-C 212: Intro to Software Systems and CSCI-C 343: Data Structures
 - Lead in-person labs for students learning Java and hold in-person office hours to assist students
-- Grade homework assignments and exams
+- Grade homework assignments and exams, write test cases for assignments
 
 ## Makerspace Technician, Luddy Makerspaces
 
