@@ -30,7 +30,7 @@
               // Insert before the <header> if it exists
               const header = document.querySelector("header");
               if (header) {
-                header.parentNode.insertBefore(div, header);
+                header.prepend(div);
               } else {
                 document.body.prepend(div);
               }
