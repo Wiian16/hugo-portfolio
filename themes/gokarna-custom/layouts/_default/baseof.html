@@ -7,18 +7,6 @@
     {{- .Scratch.Set "avatarImgSrc" $avatarImgSrc -}}
 
     {{- partial "head.html" . -}}
-    <script>
-    fetch("/banner.json")
-      .then(res => res.json())
-      .then(data => {
-        if (data.maintenance) {
-          const div = document.createElement("div");
-          div.style = "background:red;color:white;text-align:center;padding:10px;";
-          div.innerText = data.message;
-          document.body.prepend(div);
-        }
-      });
-    </script>
     <body>
         <script>
             // Immediately set theme on page load
@@ -29,5 +17,26 @@
         {{- block "main" . }}{{- end }}
         </main>
         {{- partial "footer.html" . -}}
+
+        <script>
+        fetch("/banner.json")
+          .then(res => res.json())
+          .then(data => {
+            if (data.maintenance) {
+              const div = document.createElement("div");
+              div.style = "background:red;color:white;text-align:center;padding:10px;";
+              div.innerText = data.message;
+
+              // Insert before the <header> if it exists
+              const header = document.querySelector("header");
+              if (header) {
+                header.parentNode.insertBefore(div, header);
+              } else {
+                document.body.prepend(div);
+              }
+            }
+          });
+        </script>
+
     </body>
 </html>
