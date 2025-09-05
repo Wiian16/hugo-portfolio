@@ -6,7 +6,7 @@ imageAlt: "iGPS++ Icon"
 tags: ["Hackathon", "TypeScript", "JavaScript", "Node.js", "Express.js", "GraphQL", "SQLite"]
 title: "Luddy Hackathon Spring 2025"
 type: "post"
-draft: true
+draft: false
 ---
 
 In April of 2025, I competed in the third edition of the 
