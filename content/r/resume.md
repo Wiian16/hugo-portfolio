@@ -1,4 +1,4 @@
 ---
 title: "Resume"
-redirect_url: https://assets.ianmcg.dev/public/IanMcGillivaryResume.pdf 
+redirect_url: https://r2.ianmcg.dev/IanMcGillivaryResume.pdf 
 ---
