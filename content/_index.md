@@ -63,13 +63,23 @@ _August 2022 - May 2023_
 {{< skillbox icon="/images/icons/python-logo.webp" alt="Python" name="Python" >}}
 {{< skillbox icon="/images/icons/javascript-icon.webp" alt="JavaScript" name="JavaScript" >}}
 {{< skillbox icon="/images/icons/typescript-logo.svg" alt="TypeScript" name="TypeScript" >}}
+{{< skillbox icon="/images/icons/rustacean.svg" alt="Rust" name="Rust" >}}
 
+{{< skillbox icon="/images/icons/spring.svg" alt="Spring Framework" name="Spring Framework" >}}
+{{< skillbox icon="/images/icons/express.svg" alt="Express.js" name="Express.js" >}}
+{{< skillbox icon="/images/icons/node.svg" alt="Node.js" name="Node.js" >}}
+{{< skillbox icon="/images/icons/docker.svg" alt="Docker" name="Docker" >}}
+{{< skillbox icon="/images/icons/Git_icon.svg" alt="Git" name="Git" >}}
+
+{{< skillbox icon="/images/icons/aws-lambda.svg" alt="AWS Lambda" name="AWS Lambda" >}}
+{{< skillbox icon="/images/icons/aws-s3.svg" alt="AWS S3" name="AWS S3" >}}
+{{< skillbox icon="/images/icons/aws-cloudwatch.svg" alt="AWS Cloud Watch" name="AWS Cloud Watch" >}}
 {{< skillbox icon="/images/icons/linux_icon.svg" alt="Linux" name="Linux/Unix" >}}
 {{< skillbox icon="/images/icons/windows-icon.webp" alt="Windows" name="Windows" >}}
 {{< skillbox icon="/images/icons/raspberry-pi-icon.webp" alt="Raspberry Pi" name="Raspberry Pi" >}}
 {{< skillbox icon="/images/icons/arduino-icon.svg" alt="arduino" name="Arduino" >}}
 
-{{< skillbox icon="/images/icons/Git_icon.svg" alt="Git" name="Git" >}}
+{{< skillbox icon="/images/icons/jenkins.svg" alt="Jenkins" name="Jenkins" >}}
 {{< skillbox icon="/images/icons/Icon-Vim.svg" alt="Vim" name="Vim" >}}
 {{< skillbox icon="/images/icons/sql-icon.svg" alt="SQL" name="SQL" >}}
 {{< skillbox icon="/images/icons/adobe-icon.webp" alt="Adobe" name="Adobe Suite" >}}
