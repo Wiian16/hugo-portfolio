@@ -6,9 +6,9 @@ title = ''
 
 # Hello, I'm Ian McGillivary
 
-I’m a Computer Science student at Indiana University specializing in Software Engineering, with a minor in 
-Environmental Science. I’m passionate about building practical, efficient software and solving real-world 
-problems—whether that’s through teaching, collaborating at hackathons, or exploring new technologies on my own time.
+I’m a Computer Science student at Indiana University specializing in systems, with a minor in
+Environmental Science. I’m passionate about building practical, efficient software and solving real-world
+problems — whether that’s through teaching, collaborating at hackathons, or exploring new technologies on my own time.
 
 You can find my work online under the handle **Wiian16**, including on GitHub, where I share projects and experiments
 as I continue growing as a developer. I’m currently looking for internship opportunities where I can contribute to
@@ -16,9 +16,18 @@ meaningful projects and develop my skills in a collaborative environment.
 
 # What I've Been Up To
 
+## Software Engineering Intern, Enterprise Mobility
+
+_May 2026 - July 2026_
+
+- Completed 26 story points across 16 work items
+- Worked on on-premises Java Spring and AWS Lamba JavaScript/TypeScript applicatons
+- Redesigned SOAP testing stubs using Spring controllers and resolved 100+ identified security vulnerabilities,
+  improving maintainability and application reliability
+
 ## Teaching Assistant, Indiana University
 
-*January 2025 - Present*
+_January 2025 - Present_
 
 - Teaching assistant for CSCI-C 212: Intro to Software Systems and CSCI-C 343: Data Structures
 - Lead in-person labs for students learning Java and hold in-person office hours to assist students
@@ -26,14 +35,14 @@ meaningful projects and develop my skills in a collaborative environment.
 
 ## Makerspace Technician, Luddy Makerspaces
 
-*August 2024 - Present*
+_August 2024 - Present_
 
 - Teach students to use fabrication tools such as 3D printers, soldering irons, and CAD software
 - Operate machinery such as laser cutters
 
 ## Litigation Technology Associate, Graville Law
 
-*May 2023 - Present*
+_May 2023 - Present_
 
 - Developed an app for relabeling and numbering digital documents
 - Provided IT support for phones, servers, and digital document systems
@@ -41,7 +50,7 @@ meaningful projects and develop my skills in a collaborative environment.
 
 ## Associate, Spark! Technology Solutions
 
-*August 2022 - May 2023*
+_August 2022 - May 2023_
 
 - Worked alongside Netskope security experts to learn cybersecurity tools
 - Met and worked with technology firms in St. Louis, Missouri to experience the workplace
