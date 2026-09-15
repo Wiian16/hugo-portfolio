@@ -4,45 +4,45 @@ title = 'Ian McGillivary'
 theme = "gokarna-custom"
 
 [params]
-    avatarURL = "/images/avatar.webp"
-    description = "An aspiring software developer"
-    socialIcons = [
-        {name = "linkedin-feather", url = "/r/linkedin/"},
-        {name = "github-feather", url = "/r/github/"},
-        {name = "mail", url = "mailto:ianmcgil@iu.edu"},
-        {name = "file-text", url="/r/resume/"}
-    ]
-    customHeadHTML = '''
+avatarURL = "/images/avatar.webp"
+description = "An aspiring software developer"
+socialIcons = [
+    { name = "linkedin-feather", url = "/r/linkedin/" },
+    { name = "github-feather", url = "/r/github/" },
+    { name = "mail", url = "mailto:ianm@ianmcg.dev" },
+    { name = "file-text", url = "/r/resume/" },
+]
+customHeadHTML = '''
         <link rel="stylesheet" href="/css/style.css">
     '''
 
 [menu]
-    [[menu.main]]
-        name = "Home"
-        pre = "<span data-feather='home'></span>"
-        pageRef = "/"
-        weight = 1
+[[menu.main]]
+name = "Home"
+pre = "<span data-feather='home'></span>"
+pageRef = "/"
+weight = 1
 
-    [[menu.main]]
-        name = "Projects"
-        pre = "<span data-feather='code'></span>"
-        pageRef = "/projects/"
-        weight = 2
+[[menu.main]]
+name = "Projects"
+pre = "<span data-feather='code'></span>"
+pageRef = "/projects/"
+weight = 2
 
-    [[menu.main]]
-        name = "Tags"
-        pre = "<span data-feather='tag'></span>"
-        pageRef = "/tags/"
-        weight = 3
+[[menu.main]]
+name = "Tags"
+pre = "<span data-feather='tag'></span>"
+pageRef = "/tags/"
+weight = 3
 
-    [[menu.main]]
-        name = "Github"
-        pre = "<span data-feather='github'></span>"
-        pageRef = "/r/github/"
-        weight = 4
-    
-    [[menu.main]]
-        name = "Resume"
-        pre = "<span data-feather='file-text'></span>"
-        url = "/r/resume/"
-        weight = 4
+[[menu.main]]
+name = "Github"
+pre = "<span data-feather='github'></span>"
+pageRef = "/r/github/"
+weight = 4
+
+[[menu.main]]
+name = "Resume"
+pre = "<span data-feather='file-text'></span>"
+url = "/r/resume/"
+weight = 4
