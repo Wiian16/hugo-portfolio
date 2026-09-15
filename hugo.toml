@@ -5,7 +5,7 @@ theme = "gokarna-custom"
 
 [params]
 avatarURL = "/images/avatar.webp"
-description = "An aspiring software developer"
+description = "A Backend Software Engineer"
 socialIcons = [
     { name = "linkedin-feather", url = "/r/linkedin/" },
     { name = "github-feather", url = "/r/github/" },
