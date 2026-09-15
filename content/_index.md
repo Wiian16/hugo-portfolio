@@ -6,9 +6,9 @@ title = ''
 
 # Hello, I'm Ian McGillivary
 
-I’m a Computer Science student at Indiana University specializing in systems, with a minor in
-Environmental Science. I’m passionate about building practical, efficient software and solving real-world
-problems — whether that’s through teaching, collaborating at hackathons, or exploring new technologies on my own time.
+I’m a Computer Science student at Indiana University specializing in systems, with minors in Environmental Science and 
+Data Science. I’m passionate about building practical, efficient software and solving real-world problems — whether 
+that’s through teaching, collaborating at hackathons, or exploring new technologies on my own time.
 
 You can find my work online under the handle **Wiian16**, including on GitHub, where I share projects and experiments
 as I continue growing as a developer. I’m currently looking for internship opportunities where I can contribute to
