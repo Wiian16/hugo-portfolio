@@ -95,6 +95,6 @@ _August 2022 - May 2023_
 
 - [Download my resume](/r/resume/)
 
-- [ianmcgil@iu.edu](mailto:ianmgil@iu.edu)
+- [ianm@ianmcg.dev](mailto:ianm@ianmcg.dev)
 
 - [Github](/r/github/)
